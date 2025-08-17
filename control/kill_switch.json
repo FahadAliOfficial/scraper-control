@@ -1,10 +1,10 @@
 {
-  "global_kill": true,
+  "global_kill": false,
   "machine_kills": [],
   "maintenance_mode": false,
   "maintenance_message": "System is under maintenance. Please try again later.",
-  "last_updated": "2025-08-18T00:10:19.680042",
+  "last_updated": "2025-08-18T00:10:46.065579",
   "message": "Test toggle from admin",
   "updated_by": "User Management Script",
-  "change_reason": "Manually enabled kill switch"
+  "change_reason": "Manually disabled kill switch"
 }
