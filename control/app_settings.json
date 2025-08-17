@@ -1,0 +1,16 @@
+{
+  "max_concurrent_users": 100,
+  "default_license_duration_days": 30,
+  "enable_usage_tracking": true,
+  "enable_auto_updates": true,
+  "supported_versions": [
+    "1.0.0"
+  ],
+  "minimum_version": "1.0.0",
+  "features": {
+    "foreclosure_scraping": true,
+    "allsurplus_scraping": true,
+    "nyc_vehicle_scraping": true,
+    "csv_processing": true
+  }
+}
