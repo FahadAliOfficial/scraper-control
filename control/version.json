@@ -1,0 +1,12 @@
+{
+  "latest_version": "1.0.0",
+  "download_url": "https://github.com/your-username/your-repo/releases/download/v1.0.0/scraper_app.exe",
+  "force_update": false,
+  "message": "Welcome to Scraper App v1.0.0",
+  "release_notes": [
+    "Initial release",
+    "Foreclosure scraping functionality",
+    "AllSurplus integration",
+    "NYC vehicle auctions support"
+  ]
+}
