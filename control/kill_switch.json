@@ -1,7 +1,8 @@
 {
-  "global_kill": false,
+  "global_kill": true,
   "machine_kills": [],
   "maintenance_mode": false,
   "maintenance_message": "System is under maintenance. Please try again later.",
-  "last_updated": "2025-08-17T21:43:10.820315"
+  "last_updated": "2025-08-17T23:59:00Z",
+  "message": "Test toggle from admin"
 }
