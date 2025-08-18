@@ -1,5 +1,7 @@
 {
-  "killed_users": [],
-  "last_updated": "2025-08-18T00:09:16.229665",
+  "killed_users": [
+    "e9467169836895de"
+  ],
+  "last_updated": "2025-08-18T11:16:24.203900",
   "created_by": "User Management Script"
 }
